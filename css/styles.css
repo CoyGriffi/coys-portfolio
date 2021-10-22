@@ -31,8 +31,15 @@ body {
   border-top: hidden;
 }
 
-.aboutmebutton {
-  margin: 5px;
-  border: 3px;
-  padding: 8px;
+.aboutmelink h2 {
+  border: solid 5px;
+  float: left;
+
 }
+
+
+.projectlink h2 {
+  border: solid 5px;
+  float: right;
+}
+
