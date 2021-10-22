@@ -45,7 +45,7 @@ body {
   border: ridge 2px #d415e4;
   border-radius: 15px;
   margin:5px;
-  padding: auto;
+  padding: 3px;
   float: right;
   font-size: 35px;
   color: #501275;
@@ -58,7 +58,7 @@ body {
   border: ridge 2px #d415e4;
   border-radius: 15px;
   margin: 5px;
-  padding: auto;
+  padding: 2px;
   float: left;
   font-size: 35px;
   color: #501275;
@@ -73,13 +73,15 @@ a {
 
 .p1 {
   text-align: center;
-  color: #9fbbf7;
-  text-shadow: 2px 2px#9fbbf728;
+  color: #bfd0f5;
+  text-shadow: 5px 5px#9fbbf728;
+  text-shadow:-1px -1px rgb(0, 0, 0);
 }
 
 .p2 {
   text-align: center;
-  color: #9fbbf7;
-  text-shadow: 3px 3px #9fbbf744;
+  color: #bfd0f5;
+  text-shadow: 5px 5px #9fbbf744;
+  text-shadow:-1px -1px rgb(0, 0, 0);
 }
 
