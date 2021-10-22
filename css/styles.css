@@ -41,9 +41,11 @@ body {
 }
 
 .projectlink {
-  border: solid 5px;
+  border: ridge 2px #d415e4;
+  border-radius: 15px;
   margin:5px;
-  float: left;
+  padding: auto;
+  float: right;
   font-size: 35px;
   color: #501275;
   background-color: #091a54;
@@ -52,11 +54,15 @@ body {
 
 
 .aboutmelink {
-  border: solid 5px;
-  float: right;
+  border: ridge 2px #d415e4;
+  border-radius: 15px;
+  margin: 5px;
+  padding: auto;
+  float: left;
   font-size: 35px;
   color: #501275;
   background-color: #091a54;
+  
 }
 
 a {
