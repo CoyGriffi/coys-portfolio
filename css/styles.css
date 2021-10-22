@@ -14,6 +14,7 @@ body {
 
 .top {
   color: rgb(255, 255, 255);
+  text-shadow: 4px 1px #501275;
 }
 
 .top h1 {
@@ -49,7 +50,7 @@ body {
   font-size: 35px;
   color: #501275;
   background-color: #091a54;
-
+  box-shadow: 5px 6px #04061a;
 }
 
 
@@ -62,10 +63,23 @@ body {
   font-size: 35px;
   color: #501275;
   background-color: #091a54;
-  
+  box-shadow: 5px 6px #04061a;
 }
 
 a {
   color: #52d7ea;
+  text-shadow: 2px 2px #661e99;
+}
+
+.p1 {
+  text-align: center;
+  color: #9fbbf7;
+  text-shadow: 2px 2px#9fbbf728;
+}
+
+.p2 {
+  text-align: center;
+  color: #9fbbf7;
+  text-shadow: 3px 3px #9fbbf744;
 }
 
