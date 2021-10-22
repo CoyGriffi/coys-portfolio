@@ -31,15 +31,17 @@ body {
   border-top: hidden;
 }
 
-.aboutmelink h2 {
+.aboutmelink a {
   border: solid 5px;
   float: left;
+  font-size: 35px;
 
 }
 
 
-.projectlink h2 {
+.projectlink a {
   border: solid 5px;
   float: right;
+  font-size: 35px;
 }
 
