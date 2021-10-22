@@ -16,8 +16,8 @@ body {
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-weight: 450;
   font-size: 30px;
-
 }
+
 .top {
   text-align: center;
   border: solid 3px rgba(169,18,176,255);
@@ -29,4 +29,10 @@ body {
   border-radius: 25px;
   border-bottom: hidden;
   border-top: hidden;
+}
 
+.aboutmebutton {
+  margin: 5px;
+  border: 3px;
+  padding: 8px;
+}
