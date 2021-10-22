@@ -40,17 +40,26 @@ body {
   border-top: hidden;
 }
 
-.aboutmelink a {
+.projectlink {
   border: solid 5px;
+  margin:5px;
   float: left;
   font-size: 35px;
+  color: #501275;
+  background-color: #091a54;
 
 }
 
 
-.projectlink a {
+.aboutmelink {
   border: solid 5px;
   float: right;
   font-size: 35px;
+  color: #501275;
+  background-color: #091a54;
+}
+
+a {
+  color: #52d7ea;
 }
 
