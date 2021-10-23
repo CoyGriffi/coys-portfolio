@@ -99,10 +99,37 @@ a {
 }
 
 .aboutmep1 {
-
+  text-align: center;
+  border: solid 3px #e76055;
+  padding: 5px;
+  margin: 20px;
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 25px;
+  border-bottom: hidden;
+  border-top: hidden;
+  color: #d1ecf1;
+  text-shadow: 2px 2px #000000;
+  font-size: 18px;
+  background-color: rgb(4,6,26,.5);
 }
 
 .aboutmep2 {
+  text-align: center;
+  border: solid 3px #000000;
+  padding: 5px;
+  margin: 20px;
+  width: 950px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 25px;
+  border-bottom: hidden;
+  border-top: hidden;
+  color: #d1ecf1;
+  text-shadow: 2px 2px #000000;
+  font-size: 18px;
+  background-color: rgb(4,6,26,.5);
 
 }
 
@@ -111,7 +138,7 @@ a {
   border: solid 3px #e76055;
   padding: 5px;
   margin: 20px;
-  width: 600px;
+  width: 575px;
   margin-left: auto;
   margin-right: auto;
   border-radius: 25px;
@@ -121,4 +148,24 @@ a {
   text-shadow: 4px 1px #000000;
   font-size: 65px;
   background-color: rgb(4,6,26,.2);
+}
+
+.listlikes {
+  border: solid 3px #eed137;
+  padding: 5px;
+  margin: 20px;
+  width: 300px;
+  float: left;
+  border-radius: 25px;
+  border-bottom: hidden;
+  border-top: hidden;
+  color: #20d2f7;
+  text-shadow: 2px 1px #000000;
+  font-size: 15px;
+  background-color: rgb(4,6,26,.2);
+}
+
+.listlikes h3{
+  text-align: center;
+color: #473d94;
 }
