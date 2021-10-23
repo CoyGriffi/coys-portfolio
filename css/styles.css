@@ -159,13 +159,35 @@ a {
   border-radius: 25px;
   border-bottom: hidden;
   border-top: hidden;
-  color: #20d2f7;
-  text-shadow: 2px 1px #000000;
-  font-size: 15px;
+  color: #eed137;
+  text-shadow: 2px -1px #000000;
+  font-size: 18px;
   background-color: rgb(4,6,26,.2);
 }
 
 .listlikes h3{
   text-align: center;
-color: #473d94;
+  color: #3283e1;
+  font-size: 45px;
+}
+
+.futurelist {
+  border: solid 3px #eed137;
+  padding: 5px;
+  margin: 20px;
+  width: 420px;
+  float: right;
+  border-radius: 25px;
+  border-bottom: hidden;
+  border-top: hidden;
+  color: #eed137;
+  text-shadow: 2px -1px #000000;
+  font-size: 18px;
+  background-color: rgb(4,6,26,.2);
+}
+
+.futurelist h3 {
+  text-align: center;
+  color: #3283e1;
+  font-size: 45px;  
 }
