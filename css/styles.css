@@ -191,3 +191,51 @@ a {
   color: #3283e1;
   font-size: 45px;  
 }
+
+.projecttop {
+  text-align: center;
+  border: solid 3px rgba(169,18,176,255);
+  padding: 5px;
+  margin: 20px;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 25px;
+  border-bottom: hidden;
+  border-top: hidden;
+  color: rgb(237, 236, 243);
+  text-shadow: 4px 1px #501275;
+}
+
+.projecttop h2 {
+  font-family: inherit;
+  font-size: 75px;
+}
+
+.projecttop p{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 450;
+  font-size: 40px;
+}
+
+.examplespan { 
+  font-weight: lighter;
+}
+
+.projectlist {
+  text-align: center;
+  border: solid 3px #000000;
+  padding: 5px;
+  margin: 20px;
+  width: 950px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 25px;
+  border-bottom: hidden;
+  border-top: hidden;
+  color: #d1ecf1;
+  text-shadow: 2px 2px #000000;
+  font-size: 18px;
+  background-color: rgb(4,6,26,.5);
+
+}
