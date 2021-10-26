@@ -12,12 +12,12 @@ This is a portfolio for my first HTML and css project in Epicodus Intro to progr
 
 Software Requirements
 * An internet browser of your choice; I prefer Chrome
-* A code editor; I prefer VSCode
 
 Open by Downloading or Cloning
 * Navigate to https://github.com/CoyGriffi/coys-portfolio.git
 * Download this repository to your computer by clicking the green Code button and 'Download Zip'
 * Or clone the repository
+* this can also be viewed on Github pages https://coygriffi.github.io/coys-portfolio/ 
 
 Setup Instructions 
 *open HTML.index in prefered browser
