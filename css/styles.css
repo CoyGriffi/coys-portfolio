@@ -266,3 +266,58 @@ a {
   text-shadow: 4px 1px #501275;
 }
 
+#likesshowing {
+  display: none;
+}
+
+#futurelistshowing {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.clickable2 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable2:hover {
+  text-decoration: underline;
+}
+
+#futurelisthidden {
+  border: solid 3px #eed137;
+  padding: 5px;
+  margin: 20px;
+  width: 420px;
+  float: right;
+  border-radius: 25px;
+  border-bottom: hidden;
+  border-top: hidden;
+  color: #eed137;
+  text-shadow: 2px -1px #000000;
+  font-size: 18px;
+  background-color: rgb(4,6,26,.2);
+}
+
+#likeshidden {
+  border: solid 3px #eed137;
+  padding: 5px;
+  margin: 20px;
+  width: 420px;
+  float: right;
+  border-radius: 25px;
+  border-bottom: hidden;
+  border-top: hidden;
+  color: #eed137;
+  text-shadow: 2px -1px #000000;
+  font-size: 18px;
+  background-color: rgb(4,6,26,.2);
+}
