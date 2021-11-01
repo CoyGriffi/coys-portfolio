@@ -13,7 +13,7 @@ $(document).ready(function() {
 });
 
 $(document).ready(function() {
-  $(".top").fadeIn(5000);
+  $(".top").fadeIn(4000);
 });
 
 $(document).ready(function() {
@@ -21,13 +21,13 @@ $(document).ready(function() {
 });
 
 $(document).ready(function() {
-  $(".p2").fadeIn(10000);
+  $(".p2").fadeIn(9000);
 });
 
 $(document).ready(function() {
-  $(".top").fadeIn(14000);
+  $(".aboutmelink").fadeIn(10000);
 });
 
 $(document).ready(function() {
-  $(".top").fadeIn(14000);
+  $(".projectlink").fadeIn(10000);
 });
