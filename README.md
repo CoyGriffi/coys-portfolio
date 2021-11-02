@@ -35,6 +35,8 @@ Please feel free to reach out to me anytime at <Coygriffi@gmail.com>
 * CSS
 * HTML
 * Bootstrap
+* JavaScript
+* Jquery
 
 ### License
 
